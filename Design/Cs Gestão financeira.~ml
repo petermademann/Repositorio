@@ -909,7 +909,7 @@
 <XPD:REF name="Namespace">1aGNmeAnS0OU9DMykUxz2wAA</XPD:REF>
 <XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="OwnedDiagrams[0]" type="UMLClassDiagram" guid="jxUIax5gIk+Dzr4cn9WU0AAA">
-<XPD:ATTR name="Name" type="string">Diagrama de pacotes</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Main</XPD:ATTR>
 <XPD:ATTR name="DefaultDiagram" type="boolean">True</XPD:ATTR>
 <XPD:REF name="DiagramOwner">WZRZu6puskOAXt/2WtC9AAAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="whZvuYjUX0OQlzLR/v7JfgAA">
